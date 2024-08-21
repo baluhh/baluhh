@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgur.com/m7B2y27.jpg"  />
-</div>
+<img align="right" height="200" src="https://i.imgur.com/m7B2y27.jpg"  />
 
 ###
 
