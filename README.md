@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://drive.google.com/uc?export=view&id=1racPOYOQ8bJaQqGiVWClHPntcLXMyo2g"  />
+<img align="right" height="200" src="https://drive.google.com/uc?export=view&id=1jF3Adg5Hx_8SpLSrIb3bwIypjJjaOZ9Z"  />
 
 ###
 
