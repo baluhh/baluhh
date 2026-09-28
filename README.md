@@ -30,9 +30,6 @@
   <a href="https://unalomvan.hu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Unalom%20Van&color=7289da&logoColor=&labelColor=292326&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://ko-fi.com/unalomvan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=T%C3%A1mogat%C3%A1s&color=F16061&logoColor=&labelColor=292326&style=for-the-badge" height="35" alt="ko-fi logo"  />
-  </a>
 </div>
 
 ###
